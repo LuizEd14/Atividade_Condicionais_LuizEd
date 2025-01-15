@@ -1,0 +1,14 @@
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Paridade\bin\Debug\net8.0\01. Verificação de Paridade.exe
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Paridade\bin\Debug\net8.0\01. Verificação de Paridade.deps.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Paridade\bin\Debug\net8.0\01. Verificação de Paridade.runtimeconfig.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Paridade\bin\Debug\net8.0\01. Verificação de Paridade.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Paridade\bin\Debug\net8.0\01. Verificação de Paridade.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Paridade\obj\Debug\net8.0\01. Verificação de Paridade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Paridade\obj\Debug\net8.0\01. Verificação de Paridade.AssemblyInfoInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Paridade\obj\Debug\net8.0\01. Verificação de Paridade.AssemblyInfo.cs
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Paridade\obj\Debug\net8.0\01. Verificação de Paridade.csproj.CoreCompileInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Paridade\obj\Debug\net8.0\01. Verificação de Paridade.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Paridade\obj\Debug\net8.0\refint\01. Verificação de Paridade.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Paridade\obj\Debug\net8.0\01. Verificação de Paridade.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Paridade\obj\Debug\net8.0\01. Verificação de Paridade.genruntimeconfig.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Paridade\obj\Debug\net8.0\ref\01. Verificação de Paridade.dll

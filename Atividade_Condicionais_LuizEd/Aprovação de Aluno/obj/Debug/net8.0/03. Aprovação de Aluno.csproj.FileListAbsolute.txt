@@ -1,0 +1,14 @@
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Aprovação de Aluno\bin\Debug\net8.0\03. Aprovação de Aluno.exe
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Aprovação de Aluno\bin\Debug\net8.0\03. Aprovação de Aluno.deps.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Aprovação de Aluno\bin\Debug\net8.0\03. Aprovação de Aluno.runtimeconfig.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Aprovação de Aluno\bin\Debug\net8.0\03. Aprovação de Aluno.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Aprovação de Aluno\bin\Debug\net8.0\03. Aprovação de Aluno.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Aprovação de Aluno\obj\Debug\net8.0\03. Aprovação de Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Aprovação de Aluno\obj\Debug\net8.0\03. Aprovação de Aluno.AssemblyInfoInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Aprovação de Aluno\obj\Debug\net8.0\03. Aprovação de Aluno.AssemblyInfo.cs
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Aprovação de Aluno\obj\Debug\net8.0\03. Aprovação de Aluno.csproj.CoreCompileInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Aprovação de Aluno\obj\Debug\net8.0\03. Aprovação de Aluno.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Aprovação de Aluno\obj\Debug\net8.0\refint\03. Aprovação de Aluno.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Aprovação de Aluno\obj\Debug\net8.0\03. Aprovação de Aluno.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Aprovação de Aluno\obj\Debug\net8.0\03. Aprovação de Aluno.genruntimeconfig.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Aprovação de Aluno\obj\Debug\net8.0\ref\03. Aprovação de Aluno.dll
