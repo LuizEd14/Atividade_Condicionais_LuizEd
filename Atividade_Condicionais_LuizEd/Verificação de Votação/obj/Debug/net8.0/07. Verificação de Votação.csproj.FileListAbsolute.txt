@@ -1,0 +1,14 @@
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Votação\bin\Debug\net8.0\07. Verificação de Votação.exe
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Votação\bin\Debug\net8.0\07. Verificação de Votação.deps.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Votação\bin\Debug\net8.0\07. Verificação de Votação.runtimeconfig.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Votação\bin\Debug\net8.0\07. Verificação de Votação.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Votação\bin\Debug\net8.0\07. Verificação de Votação.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Votação\obj\Debug\net8.0\07. Verificação de Votação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Votação\obj\Debug\net8.0\07. Verificação de Votação.AssemblyInfoInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Votação\obj\Debug\net8.0\07. Verificação de Votação.AssemblyInfo.cs
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Votação\obj\Debug\net8.0\07. Verificação de Votação.csproj.CoreCompileInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Votação\obj\Debug\net8.0\07. Verificação de Votação.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Votação\obj\Debug\net8.0\refint\07. Verificação de Votação.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Votação\obj\Debug\net8.0\07. Verificação de Votação.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Votação\obj\Debug\net8.0\07. Verificação de Votação.genruntimeconfig.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Verificação de Votação\obj\Debug\net8.0\ref\07. Verificação de Votação.dll

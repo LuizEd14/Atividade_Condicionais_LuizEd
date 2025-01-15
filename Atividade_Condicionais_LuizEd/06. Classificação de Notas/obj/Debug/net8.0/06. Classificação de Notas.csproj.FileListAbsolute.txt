@@ -1,0 +1,14 @@
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\06. Classificação de Notas\bin\Debug\net8.0\06. Classificação de Notas.exe
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\06. Classificação de Notas\bin\Debug\net8.0\06. Classificação de Notas.deps.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\06. Classificação de Notas\bin\Debug\net8.0\06. Classificação de Notas.runtimeconfig.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\06. Classificação de Notas\bin\Debug\net8.0\06. Classificação de Notas.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\06. Classificação de Notas\bin\Debug\net8.0\06. Classificação de Notas.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\06. Classificação de Notas\obj\Debug\net8.0\06. Classificação de Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\06. Classificação de Notas\obj\Debug\net8.0\06. Classificação de Notas.AssemblyInfoInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\06. Classificação de Notas\obj\Debug\net8.0\06. Classificação de Notas.AssemblyInfo.cs
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\06. Classificação de Notas\obj\Debug\net8.0\06. Classificação de Notas.csproj.CoreCompileInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\06. Classificação de Notas\obj\Debug\net8.0\06. Classificação de Notas.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\06. Classificação de Notas\obj\Debug\net8.0\refint\06. Classificação de Notas.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\06. Classificação de Notas\obj\Debug\net8.0\06. Classificação de Notas.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\06. Classificação de Notas\obj\Debug\net8.0\06. Classificação de Notas.genruntimeconfig.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\06. Classificação de Notas\obj\Debug\net8.0\ref\06. Classificação de Notas.dll

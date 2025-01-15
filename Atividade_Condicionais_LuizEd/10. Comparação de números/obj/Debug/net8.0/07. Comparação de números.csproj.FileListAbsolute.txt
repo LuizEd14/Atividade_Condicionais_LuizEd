@@ -1,0 +1,14 @@
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\10. Comparação de números\bin\Debug\net8.0\07. Comparação de números.exe
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\10. Comparação de números\bin\Debug\net8.0\07. Comparação de números.deps.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\10. Comparação de números\bin\Debug\net8.0\07. Comparação de números.runtimeconfig.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\10. Comparação de números\bin\Debug\net8.0\07. Comparação de números.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\10. Comparação de números\bin\Debug\net8.0\07. Comparação de números.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\10. Comparação de números\obj\Debug\net8.0\07. Comparação de números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\10. Comparação de números\obj\Debug\net8.0\07. Comparação de números.AssemblyInfoInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\10. Comparação de números\obj\Debug\net8.0\07. Comparação de números.AssemblyInfo.cs
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\10. Comparação de números\obj\Debug\net8.0\07. Comparação de números.csproj.CoreCompileInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\10. Comparação de números\obj\Debug\net8.0\07. Comparação de números.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\10. Comparação de números\obj\Debug\net8.0\refint\07. Comparação de números.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\10. Comparação de números\obj\Debug\net8.0\07. Comparação de números.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\10. Comparação de números\obj\Debug\net8.0\07. Comparação de números.genruntimeconfig.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\10. Comparação de números\obj\Debug\net8.0\ref\07. Comparação de números.dll

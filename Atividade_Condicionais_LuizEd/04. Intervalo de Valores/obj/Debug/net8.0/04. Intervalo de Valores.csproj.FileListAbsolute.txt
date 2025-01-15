@@ -1,0 +1,14 @@
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\04. Intervalo de Valores\bin\Debug\net8.0\04. Intervalo de Valores.exe
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\04. Intervalo de Valores\bin\Debug\net8.0\04. Intervalo de Valores.deps.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\04. Intervalo de Valores\bin\Debug\net8.0\04. Intervalo de Valores.runtimeconfig.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\04. Intervalo de Valores\bin\Debug\net8.0\04. Intervalo de Valores.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\04. Intervalo de Valores\bin\Debug\net8.0\04. Intervalo de Valores.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\04. Intervalo de Valores\obj\Debug\net8.0\04. Intervalo de Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\04. Intervalo de Valores\obj\Debug\net8.0\04. Intervalo de Valores.AssemblyInfoInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\04. Intervalo de Valores\obj\Debug\net8.0\04. Intervalo de Valores.AssemblyInfo.cs
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\04. Intervalo de Valores\obj\Debug\net8.0\04. Intervalo de Valores.csproj.CoreCompileInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\04. Intervalo de Valores\obj\Debug\net8.0\04. Intervalo de Valores.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\04. Intervalo de Valores\obj\Debug\net8.0\refint\04. Intervalo de Valores.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\04. Intervalo de Valores\obj\Debug\net8.0\04. Intervalo de Valores.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\04. Intervalo de Valores\obj\Debug\net8.0\04. Intervalo de Valores.genruntimeconfig.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\04. Intervalo de Valores\obj\Debug\net8.0\ref\04. Intervalo de Valores.dll

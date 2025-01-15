@@ -1,0 +1,14 @@
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\09. Cálculo do Desconto\bin\Debug\net8.0\09. Cálculo do Desconto.exe
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\09. Cálculo do Desconto\bin\Debug\net8.0\09. Cálculo do Desconto.deps.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\09. Cálculo do Desconto\bin\Debug\net8.0\09. Cálculo do Desconto.runtimeconfig.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\09. Cálculo do Desconto\bin\Debug\net8.0\09. Cálculo do Desconto.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\09. Cálculo do Desconto\bin\Debug\net8.0\09. Cálculo do Desconto.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\09. Cálculo do Desconto\obj\Debug\net8.0\09. Cálculo do Desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\09. Cálculo do Desconto\obj\Debug\net8.0\09. Cálculo do Desconto.AssemblyInfoInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\09. Cálculo do Desconto\obj\Debug\net8.0\09. Cálculo do Desconto.AssemblyInfo.cs
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\09. Cálculo do Desconto\obj\Debug\net8.0\09. Cálculo do Desconto.csproj.CoreCompileInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\09. Cálculo do Desconto\obj\Debug\net8.0\09. Cálculo do Desconto.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\09. Cálculo do Desconto\obj\Debug\net8.0\refint\09. Cálculo do Desconto.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\09. Cálculo do Desconto\obj\Debug\net8.0\09. Cálculo do Desconto.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\09. Cálculo do Desconto\obj\Debug\net8.0\09. Cálculo do Desconto.genruntimeconfig.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\09. Cálculo do Desconto\obj\Debug\net8.0\ref\09. Cálculo do Desconto.dll

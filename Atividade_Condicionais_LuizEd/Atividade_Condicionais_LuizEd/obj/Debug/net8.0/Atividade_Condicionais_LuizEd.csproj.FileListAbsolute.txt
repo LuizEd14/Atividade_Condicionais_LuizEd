@@ -1,0 +1,14 @@
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Atividade_Condicionais_LuizEd\bin\Debug\net8.0\Atividade_Condicionais_LuizEd.exe
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Atividade_Condicionais_LuizEd\bin\Debug\net8.0\Atividade_Condicionais_LuizEd.deps.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Atividade_Condicionais_LuizEd\bin\Debug\net8.0\Atividade_Condicionais_LuizEd.runtimeconfig.json
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Atividade_Condicionais_LuizEd\bin\Debug\net8.0\Atividade_Condicionais_LuizEd.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Atividade_Condicionais_LuizEd\bin\Debug\net8.0\Atividade_Condicionais_LuizEd.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Atividade_Condicionais_LuizEd\obj\Debug\net8.0\Atividade_Condicionais_LuizEd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Atividade_Condicionais_LuizEd\obj\Debug\net8.0\Atividade_Condicionais_LuizEd.AssemblyInfoInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Atividade_Condicionais_LuizEd\obj\Debug\net8.0\Atividade_Condicionais_LuizEd.AssemblyInfo.cs
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Atividade_Condicionais_LuizEd\obj\Debug\net8.0\Atividade_Condicionais_LuizEd.csproj.CoreCompileInputs.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Atividade_Condicionais_LuizEd\obj\Debug\net8.0\Atividade_Condicionais_LuizEd.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Atividade_Condicionais_LuizEd\obj\Debug\net8.0\refint\Atividade_Condicionais_LuizEd.dll
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Atividade_Condicionais_LuizEd\obj\Debug\net8.0\Atividade_Condicionais_LuizEd.pdb
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Atividade_Condicionais_LuizEd\obj\Debug\net8.0\Atividade_Condicionais_LuizEd.genruntimeconfig.cache
+C:\Users\luiz.esferreira6\source\repos\Atividade_Condicionais_LuizEd\Atividade_Condicionais_LuizEd\obj\Debug\net8.0\ref\Atividade_Condicionais_LuizEd.dll
